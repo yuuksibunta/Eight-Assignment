@@ -1,7 +1,0 @@
-<!-- src/main/resources/com/example/name/NameMapper.xml -->
-
-<mapper namespace="com.example.name.NameMapper">
-    <select id="findAllNames" resultType="com.example.name.Name">
-        SELECT * FROM names;
-    </select>
-</mapper>
