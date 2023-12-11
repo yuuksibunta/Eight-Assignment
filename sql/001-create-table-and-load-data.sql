@@ -4,6 +4,7 @@ CREATE TABLE names (
  name VARCHAR(20) NOT NULL,
  PRIMARY KEY(id)
 );
-INSERT INTO names (name) VALUES ('name1');
-INSERT INTO names (name) VALUES ('name2');
+INSERT INTO names (name) VALUES ('kaori');
+INSERT INTO names (name) VALUES ('yuka');
 INSERT INTO names (name) VALUES ('yuki');
+INSERT INTO names (name) VALUES ('toshiki');
